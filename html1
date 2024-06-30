@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce - Tela Inicial</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <img src="img/logo.png" alt="Logo da Empresa" class="logo">
+        <nav>
+            <ul class="menu">
+                <li><a href="#" id="newUser">Sou novo por aqui</a></li>
+                <li><a href="#" id="existingUser">Já tenho cadastro</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div id="formContainer"></div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
