@@ -1,11 +1,3 @@
-ecommerce/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── scripts.js
-└── img/
-    └── logo.png
 <!DOCTYPE html>
 <html lang="en">
 <head>
